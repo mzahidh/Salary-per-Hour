@@ -3,17 +3,17 @@ This is a project to find out salary per hour based on the number of employees t
 
 In this repo, there are some files:
 Source data:
-- # employees.csv
-- # timesheets.csv
+- ### employees.csv
+- ### timesheets.csv
 
 Transformation and Load data:
-- # PythonTask_M.Zahid.ipynb
-- # sql_task_M.Zahid.sql
+- ### PythonTask_M.Zahid.ipynb
+- ### sql_task_M.Zahid.sql
 
 Evidence after load data:
-- # Tables Created.png
-- # sample_results.png
-- # result_salary_per_hour.csv
+- ### Tables Created.png
+- ### sample_results.png
+- ### result_salary_per_hour.csv
  
     
 In Transformation and Load data step, there are steps that I do:
